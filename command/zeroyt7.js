@@ -112,7 +112,7 @@ mute: false,
 antilink: false,
 }
 
-var creator = '©Created By : Zero YT7'
+var creator = '©Created By : Fikrii Sky'
 		
 let setting = global.db.data.settings[botNumber]
 if (typeof setting !== 'object') global.db.data.settings[botNumber] = {}
