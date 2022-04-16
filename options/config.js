@@ -1,11 +1,11 @@
 /* My Info
 * New Base Multi Device By Zero YT7
 * Please Follow Me On All Sosial Media
-* Instagram : https://instagram.com/Zero_YT7
-* Tiktok : https://tiktok.com/@_zeroyt7
-* Github : https://github.com/Zero-YT7
-* Youtube : https://youtube.com/ZeroYT7
-* Contact Me on wa.me/6285157740529
+* Instagram : https://instagram.com/FikriiSky
+* Tiktok : https://tiktok.com/@FikriiSky
+* Github : https://github.com/Fikrii21
+* Youtube : https://youtube.com/FikriiSky
+* Contact Me on wa.me/6281233738677
 */
 
 /* My Web
@@ -21,8 +21,6 @@
 * Allah S.W.T
 * Ortu
 * All Creator Bot
-* All Subscriber Ku
-*/
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -41,11 +39,11 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-global.owner = ['6285157740529']
-global.premium = ['6285157740529']
-global.botname = 'Z7 BOT'
-global.packname = 'Zero YT7'
-global.author = 'Zero YT7'
+global.owner = ['6281233738677']
+global.premium = ['6281233738666']
+global.botname = 'Fikrii Sky'
+global.packname = 'Fikrii Sky'
+global.author = 'Fikrii Sky'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
